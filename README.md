@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Este repositório contém as soluções para os exercícios do BeeCrowd resolvidos por mim. O objetivo deste repositório é compartilhar meu código e ajudar outros alunos a entender como resolver os exercícios do site.
+Este repositório contém as soluções para os exercícios do BeeCrowd resolvidos por mim. O objetivo deste repositório é pratiar algoritmos e compartilhar meu código, ajudando outros alunos a entender como resolver os exercícios do site.
 
 ## Sobre o BeeCrowd
 
