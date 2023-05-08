@@ -1,2 +1,19 @@
-# beecrowd-solutions
- Este repositório contém minhas soluções para os exercícios do site BeeCrowd, organizados por linguagem de programação. Os exercícios foram selecionados para me ajudar a aprender e praticar algoritmos em diferentes linguagens de programação, incluindo C++, Java e Python.  Cada exercício tem sua própria pasta contendo a solução e um arquivo README explicando o problema e como foi resolvido. Além disso, há um arquivo README principal que fornece uma visão geral da estrutura do repositório e instruções para executar e/ou testar as soluções dos exercícios.  Este repositório pode ser útil para quem está aprendendo a programar e quer praticar algoritmos em diferentes linguagens, ou para quem quer comparar soluções para os mesmos problemas em diferentes linguagens.  Fique à vontade para explorar o repositório, baixar as soluções e usar como referência ou para praticar seus próprios algoritmos. Qualquer feedback ou contribuição é bem-vindo!
+<h1 align="center">BeeCrowd - Exercícios Resolvidos</h1>
+
+## Descrição
+
+Este repositório contém as soluções para os exercícios do BeeCrowd resolvidos por mim. O objetivo deste repositório é compartilhar meu código e ajudar outros alunos a entender como resolver os exercícios do site.
+
+## Sobre o BeeCrowd
+
+O BeeCrowd é um site que oferece problemas de programação para praticar e melhorar as habilidades em algoritmos e estruturas de dados. É muito útil para estudantes de programação, desde iniciantes até avançados.
+
+## Como Usar
+
+As soluções para os exercícios estão organizadas em pastas por linguagem, com o número do problema como nome da classe. Cada classe contém o código fonte.
+
+Sinta-se à vontade para usar o código como referência para seus próprios projetos ou para praticar. Se encontrar algum problema ou tiver alguma dúvida, fique à vontade para abrir uma issue ou enviar um pull request.
+
+## Licença
+
+Este projeto está licenciado sob a licença MIT. Consulte o arquivo LICENSE para obter mais informações.
