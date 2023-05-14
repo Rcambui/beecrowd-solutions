@@ -34,7 +34,7 @@ public class Beecrowd1114 {
             System.out.println("Senha Invalida");
 
         } while (true);
-        
+
         scan.close();
     }
 }
