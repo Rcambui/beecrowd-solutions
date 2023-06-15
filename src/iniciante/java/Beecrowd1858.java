@@ -42,9 +42,8 @@ public class Beecrowd1858 {
             }
         }
         System.out.println(posMenor);
-    }
-
 
         scan.close();
     }
 }
+
