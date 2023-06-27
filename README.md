@@ -12,7 +12,7 @@ O BeeCrowd é um site que oferece problemas de programação para praticar e mel
 
 As soluções para os exercícios estão organizadas em pastas por linguagem, com o número do problema como nome da classe. Cada classe contém o código fonte.
 
-Sinta-se à vontade para usar o código como referência para seus próprios projetos ou para praticar. Se encontrar algum problema ou tiver alguma dúvida, fique à vontade para abrir uma issue ou enviar um pull request.
+Sinta-se à vontade para usar o código como referência para seus próprios projetos nas respectivas linguagens ou para praticar. Se encontrar algum problema ou tiver alguma dúvida, fique à vontade para abrir uma issue ou enviar um pull request.
 
 ## Linguagens utilizadas
 
